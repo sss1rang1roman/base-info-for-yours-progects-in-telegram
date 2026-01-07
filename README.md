@@ -12,7 +12,7 @@
 ## 🚀 Быстрый запуск  
 1. **Склонировать репозиторий:**  
 
-git clone https://github.com/sss1rang1roman/base-info-for-yours-progects-in-telegram.git
+git clone these link project
 
 2. **Установить зависимости:**  
 
